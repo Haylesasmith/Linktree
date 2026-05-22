@@ -12,7 +12,7 @@ hayleysmith@uvic.ca
 ### 🔗  Links
 
 - [Google Scholar](https://scholar.google.ca/citations?user=oW5bmsYAAAAJ&hl=en)
-- [LinkedIn](https://www.linkedin.com/in/hayley-smith-b8592674/)
+- [LinkedIn](www.linkedin.com/in/hayley-smith-b8592674)
 
 ### About Me
 
