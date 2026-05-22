@@ -4,7 +4,7 @@
 
 # Hayley Smith
 
-**PhD Candidate | University of Victoria**
+##PhD Candidate | University of Victoria
 
 ### 📬  Contact
 hayleysmith@uvic.ca
