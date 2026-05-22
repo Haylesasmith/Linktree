@@ -16,7 +16,7 @@ hayleysmith@uvic.ca
 
 ### About Me
 
-I am a Chemical Engineer and PhD Candidate at the University of Victoria working at the intersection of green chemistry, sustainable process design, and biobased materials. I have over four years of experience in production optimization, chemical plant operations, and refinery systems management. At Ecolab, I supported feasibility study reviews, design modifications, and water treatment improvements for clients in the petrochemical, utilities, and energy sectors.
+I am a Chemical Engineer and PhD Candidate at the University of Victoria working at the intersection of green chemistry, sustainable process design, and biobased materials. I have over four years of experience in production optimization, chemical plant operations, and refinery systems management. At Ecolab, I supported feasibility study reviews, design modifications, and water treatment improvements for clients in the petrochemical, utilities, and energy sectors. 
 
 My PhD research focuses on developing and optimizing greener extraction processes for alginate-based plastics using kelp as a renewable feedstock. I combine process optimization, statistical modelling, chemical hazard assessment, and material characterization to improve alginate extraction while reducing reliance on hazardous processing chemicals. I also evaluate how kelp species and alginate physicochemical properties influence yield, composition, and material performance. These insights support the design of tailored extraction and processing strategies for targeted biobased product applications.
 
