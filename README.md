@@ -20,7 +20,7 @@ I am a Chemical Engineer and PhD Candidate at the University of Victoria working
 
 My PhD research focuses on developing and optimizing greener extraction processes for alginate-based plastics using kelp as a renewable feedstock. I combine process optimization, statistical modelling, chemical hazard assessment, and material characterization to improve alginate extraction while reducing reliance on hazardous processing chemicals. I also evaluate how kelp species and alginate physicochemical properties influence yield, composition, and material performance. These insights support the design of tailored extraction and processing strategies for targeted biobased product applications.
 
-I have also worked on safer chemical alternatives to mitigate biofouling in water treatment systems. Alongside my research, I have taught graduate-level material in Green Chemistry, Biomimicry, and Industrial Symbiosis, and contributed to course development on integrating toxicology into engineering design for safer industrial processes and environmental protection.
+I have also worked on safer chemical alternatives to mitigate biofouling in water treatment systems during my masters research. Alongside my research, I have co-designed and taught graduate-level courses in Green Chemistry, Biomimicry, Industrial Symbiosis, and Toxicology for Engineers and Scientists, connecting safer chemical design, hazard assessment, computational toxicology, and community-based sustainability projects.
 
 ### Areas of Expertise
 
