@@ -31,6 +31,6 @@ I have also worked on safer chemical alternatives to mitigate biofouling in wate
 - Process optimization, statistical modelling, and experimental design
 - Chemical hazard assessment and safer alternatives evaluation
 - Water treatment systems and biofouling mitigation
-- Sustainability assessment and life-cycle thinking
+- Sustainability assessment and life cycle thinking
 
 
